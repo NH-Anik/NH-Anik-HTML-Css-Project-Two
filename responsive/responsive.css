@@ -1,0 +1,32 @@
+@media (min-width: 320px) and (max-width: 575px) {
+   #fast-section {
+    background-color: #05f1e9;
+}
+.bannar-section-fast-text {
+	position: unset;
+    text-align: center;
+}
+.bannar-section-fast-text h6 {
+	width: 400px;
+    text-align: center;
+    padding-left: 55px;
+}
+.nav-fast-button {
+	display: inline-block;
+}
+}
+@media (min-width: 576px) and (max-width: 767px) {
+   
+}
+@media (min-width: 768px) and (max-width: 990px) {
+   
+}
+@media (min-width: 991px) and (max-width: 1198px) {
+   
+}
+@media (min-width: 1199px) and (max-width: 1398px) {
+   
+}
+@media (min-width: 1399px) and (max-width: 1920px) {
+   
+}
